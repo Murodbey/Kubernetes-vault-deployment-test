@@ -1,3 +1,8 @@
+# YouTube link 
+
+Here is the link to the YouTube video which shows how to create Vault under 5mins.
+https://youtu.be/wt9WSn5WjTM
+
 # What is Vault?
 
 Secure, store and tightly control access to tokens, passwords, certificates, encryption keys for protecting secrets and other sensitive data using a UI, CLI, or HTTP API.
