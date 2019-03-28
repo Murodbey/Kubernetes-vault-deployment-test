@@ -40,7 +40,7 @@ spec:
         - name: VAULT_DEV_ROOT_TOKEN_ID
           value: vault-root-token
         volumeMounts:
-          - mountPath: /tmp/kubernetes-vault
+          - mountPath: /var/run/vault
             name: vault
       volumes:
         - name: vault
