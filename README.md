@@ -10,8 +10,8 @@ Secure, store and tightly control access to tokens, passwords, certificates, enc
 
 ```python
 yum install git -y
-git clone https://github.com/Murodbey/Kubernetes-vault-deployment-tools.git
-cd Kubernetes-vault-deployment-tools
+git clone https://github.com/Murodbey/Kubernetes-vault-deployment-test.git
+cd Kubernetes-vault-deployment-test
 ```
 
 3. You need to encrypt your token(password) first before you add it to the vault-secret.yaml file.
