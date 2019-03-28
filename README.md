@@ -1,7 +1,6 @@
 # YouTube link 
 
-Here is the link to the YouTube video which shows how to create Vault under 5mins.
-https://youtu.be/wt9WSn5WjTM
+[![Here is the link to the YouTube video which shows how to create Vault under 5mins.](https://github.com/Murodbey/Kubernetes-vault-deployment-test/blob/master/pictures/Youtubelink.PNG)](https://www.youtube.com/watch?v=wt9WSn5WjTM&feature=youtu.be)
 
 # What is Vault?
 
